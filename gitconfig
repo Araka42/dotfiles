@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = raphaelgrelon@outlook.fr
+	email = gh api raphaelgrelon@outlook.fr
 	name = Raphael Grelon
